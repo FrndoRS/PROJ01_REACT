@@ -2,6 +2,7 @@
     background: var(--preto);
     color: var(--cinza);
     padding: 0.25rem 0.50rem;
+    margin-bottom: 0.25rem;
 }
 
 .Cabecalho h1 {
