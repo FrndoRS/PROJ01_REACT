@@ -5,3 +5,4 @@ export * from './FormCriarTarefa';
 export * from './CampoTexto';
 export * from './ListaTarefas';
 export * from './Botao';
+export * from './Loading';
